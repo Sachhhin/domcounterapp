@@ -1,0 +1,44 @@
+body{
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+    flex-direction: column;
+    border: solid rgb(122, 120, 120);
+    width: 450px;
+    margin-left: 425px;
+    border-radius: 10px;
+   
+
+}
+
+/* div{
+    display: flex;
+   align-items: center;
+   margin-left: 653px;
+} */
+
+button{
+padding: 5px;
+margin: 2px;
+font-weight: 750;
+font-size: 15px;
+}
+
+/* section{
+display: flex;
+align-items: center;
+    border: solid black;
+} */
+
+span{
+
+    font-size: 25px;
+    padding: 5px 15px;
+    border: 1px solid black;
+  }
+    /* width: 35px;
+    height: 35px;
+    padding: 7px ;
+    border: 1px solid black; */
